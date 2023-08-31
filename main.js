@@ -29,3 +29,7 @@ for (let i in deleteBtns)
     cards[i].remove() 
 }) 
 }
+ 
+
+        
+    
